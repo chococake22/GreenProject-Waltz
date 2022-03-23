@@ -17,7 +17,7 @@
 - 게시판은 게시글과 댓글 기능 및 페이징을 중심으로 구현
 
 
-기술
+개발환경
 - Java 1.8
 - HTML, CSS, JavaScript
 - JSP
