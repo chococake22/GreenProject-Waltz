@@ -19,6 +19,7 @@
 
 개발환경
 - Java 1.8
+- Maven
 - HTML, CSS, Javascript
 - JSP
 - Spring
