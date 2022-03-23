@@ -19,7 +19,7 @@
 
 개발환경
 - Java 1.8
-- HTML, CSS, JavaScript
+- HTML, CSS, Javascript
 - JSP
 - Spring
 - Mybatis
@@ -28,7 +28,7 @@
 
 
 특징(본인의 역할 중심으로)
-- 스프링, jsp, javascript를 활용
+- JSP, Javascript를 활용
 - UI/UX는 반려동물의 포근함을 담을 수 있도록 강한 느낌의 색이 아닌 하늘색, 흰색 계열의 이미지를 활용
 - 메인페이지 슬라이드 기능 - Swiper 라이브러리 사용
 - 권장 칼로리, 사람 나이 환산 등을 계산하는 기능을 Javascript를 통해 구현
