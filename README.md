@@ -26,6 +26,7 @@
 - Mybatis
 - Spring Security
 - Eclipse
+- Tomcat
 
 
 특징(본인의 역할 중심으로)
